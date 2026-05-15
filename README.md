@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I´m Maximo, a Data Science Student
+
 <!--
 **MaxN3r0/MaxN3r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
